@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CV Maker</string>
+    <string name="title_activity_cv_create_">Stworz CV</string>
+    <string name="title_activity_CV">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_cv__review">Cv_Review</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_cv_browser">Cv_browser</string>
+
+    <string name="Daneobobowe">Dane Osobowe</string>
+    <string name="Edukacja">Edukacja</string>
+    <string name="Doświadczenie">Doświadczenie</string>
+    <string name="Zainteresowania">Zainteresowania</string>
+    <string name="Jezyki">Jezyki</string>
+    <string name="Certyfikaty">Umiejętności </string>
+    <string name="Szkolenia">Szkolenia</string>
+
+
+</resources>

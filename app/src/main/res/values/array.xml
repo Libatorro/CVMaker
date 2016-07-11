@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="cv_selection">
+
+
+        <item>Dane Osobowe</item>
+        <item>Edukacja</item>
+    <item> Doświadczenie</item>
+        <item>Jezyki</item>
+        <item>Certyfikaty</item>
+        <item>Szkolenia</item>
+        <item>Zainteresowania</item>
+
+    </string-array>
+
+
+
+
+
+
+    <string-array name="langue_type">
+
+        <item>A1</item>
+        <item>A2</item>
+        <item>B1</item>
+        <item>B2</item>
+        <item>C1</item>
+        <item>C2</item>
+
+
+    </string-array>
+
+
+</resources>
